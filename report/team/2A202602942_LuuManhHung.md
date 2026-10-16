@@ -4,7 +4,7 @@
 
 - Họ tên: Lưu Mạnh Hùng
 - MSSV: 2A202602942
-- Nhóm và đề CS13: Nhóm 6 · Đề 3 · RaViện
+- Nhóm và đề CS13: Nhóm 6 · Đề 3 · Ra Viện
 
 ## 2. Phần việc phụ trách
 

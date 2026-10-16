@@ -2,7 +2,7 @@
 
 - Tên nhóm: Nhóm 6
 - Số nhóm: 6
-- Đề CS13: Đề 3 · RaViện — Trợ lý soạn nháp tóm tắt ra viện cho bác sĩ khoa nội
+- Đề CS13: Đề 3 · Ra Viện — Trợ lý soạn nháp tóm tắt ra viện cho bác sĩ khoa nội
 - Link repo bài làm: https://github.com/Kang8M/K4-L3-CS13-Nhom6-AI-Roadmap
 
 

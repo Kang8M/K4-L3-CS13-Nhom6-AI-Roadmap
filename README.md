@@ -1,7 +1,7 @@
 # K4-L3-CS13 · Nhóm 6 · AI Roadmap
 
 - **Nhóm:** Nhom6
-- **Đề:** Đề 3 — RaViện: Trợ lý soạn nháp tóm tắt ra viện cho bác sĩ khoa nội
+- **Đề:** Đề 3 — Ra Viện: Trợ lý soạn nháp tóm tắt ra viện cho bác sĩ khoa nội
 - **Track 1 · Khóa 4 · CS13 Lộ trình sản phẩm AI** — thực hành 16/10/2026
 - **Link repo:** https://github.com/Kang8M/K4-L3-CS13-Nhom6-AI-Roadmap
 
